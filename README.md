@@ -8,7 +8,7 @@
 
 <br>
 
-![Razer System Master UI](screenshot.png)
+![ System Master UI](screenshot.png)
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### Execution
 1. Head over to the **[Releases](../../releases)** tab on the right side of this page.
-2. Download the latest compiled `RazerSystemMaster.exe` binary.
+2. Download the latest compiled `SystemMaster.exe` binary.
 3. **Right-click** the `.exe` file -> select **Run as Administrator** *(Administrative privileges are strictly required for DNS flushing and clearing system-wide temp folders).*
 
 ---
